@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1498825560 source:c:\users\cglab\desktop\ai3-breakthrough\breakthrough.cpp
+	"Breakthrough.h"
+	<stdio.h>
+
+1498879447 c:\users\cglab\desktop\ai3-breakthrough\breakthrough.h
+	<vector>
+	<string>
+	<stdio.h>
+	<algorithm>
+
+1498898335 source:c:\users\cglab\desktop\ai3-breakthrough\main.cpp
+	"Breakthrough.h"
+	<SFML/Graphics.hpp>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<time.h>
+
+1496477236 source:c:\users\cglab\desktop\ai3-breakthrough\ui.cpp
+
+1497015187 c:\users\cglab\desktop\ai3-breakthrough\ui.h
+	<SFML/Graphics.hpp>
+	<time.h>
+
+1498990212 source:c:\users\csie\desktop\ai3-breakthrough\main.cpp
+	"Breakthrough.h"
+	<SFML/Graphics.hpp>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1498991393 c:\users\csie\desktop\ai3-breakthrough\breakthrough.h
+	<vector>
+	<string>
+	<stdio.h>
+	<algorithm>
+
+1498990307 source:c:\users\csie\desktop\ai3-breakthrough\breakthrough.cpp
+	"Breakthrough.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1497366512 source:e:\ai3-breakthrough\breakthrough.cpp
+	"Breakthrough.h"
+	<stdio.h>
+
+1497360852 e:\ai3-breakthrough\breakthrough.h
+	<vector>
+	<string>
+	<stdio.h>
+	<algorithm>
+
+1498642014 source:e:\ai3-breakthrough\main.cpp
+	"Breakthrough.h"
+	<SFML/Graphics.hpp>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<iostream>
+
+1498825562 source:d:\ai3-breakthrough\breakthrough.cpp
+	"Breakthrough.h"
+	<stdio.h>
+
+1498879448 d:\ai3-breakthrough\breakthrough.h
+	<vector>
+	<string>
+	<stdio.h>
+	<algorithm>
+
+1498905374 source:d:\ai3-breakthrough\main.cpp
+	"Breakthrough.h"
+	<SFML/Graphics.hpp>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<time.h>
+

@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1498991834 source:c:\users\csie\desktop\chekuei-breakthrough\breakthrough.cpp
+	"Breakthrough.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1498991393 c:\users\csie\desktop\chekuei-breakthrough\breakthrough.h
+	<vector>
+	<string>
+	<stdio.h>
+	<algorithm>
+
+1498993543 source:c:\users\csie\desktop\chekuei-breakthrough\main.cpp
+	"Breakthrough.h"
+	<SFML/Graphics.hpp>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1498993544 source:c:\users\cglab\desktop\chekuei-breakthrough\timeperturn\main.cpp
+	"Breakthrough.h"
+	<SFML/Graphics.hpp>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1498991394 c:\users\cglab\desktop\chekuei-breakthrough\timeperturn\breakthrough.h
+	<vector>
+	<string>
+	<stdio.h>
+	<algorithm>
+
+1498992446 source:c:\users\cglab\desktop\chekuei-breakthrough\timeperturn\breakthrough.cpp
+	"Breakthrough.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
